@@ -14,4 +14,8 @@ Apple iPhones are among the top-selling smartphones worldwide. There is huge com
 
     There is a linear relationship between the discount percentage on iPhones on Flipkart and the number of ratings. It means iPhones with high discounts are sold more in India.
 
-1.APPLE iPhone 8 Plus (Gold, 64 GB) was the most appreciated iPhone in India 2.iPhones with lower sale prices are sold more in India 3.iPhones with high discounts are sold more in India
+1.APPLE iPhone 8 Plus (Gold, 64 GB) was the most appreciated iPhone in India
+
+2.iPhones with lower sale prices are sold more in India 
+
+3.iPhones with high discounts are sold more in India
